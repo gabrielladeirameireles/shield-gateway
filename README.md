@@ -25,7 +25,7 @@ O **ShieldGateway** é um projeto prático para centralizar a camada de entrada 
 
 ---
 
-## 🏗️ Fluxo da Aplicação
+##  Fluxo da Aplicação
 
 ```text
   [ Cliente HTTP ]
